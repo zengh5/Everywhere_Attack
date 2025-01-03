@@ -10,4 +10,4 @@ The proposed method can be illustrated with the following figure. To fool a DNN 
 Please run everywhere_demo.py to see the targeted transferability improvement by the proposed _everywhere_ method.
 
 ### Acknowledgement
-Our implementation is highly borrowed from [Zhao's code on NeurIPS 2021](https://github.com/ZhengyuZhao/Targeted-Transfer).
+Our implementation is highly borrowed from [Zhao's code](https://github.com/ZhengyuZhao/Targeted-Transfer) on NeurIPS 2021.
