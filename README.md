@@ -8,6 +8,7 @@ The proposed method can be illustrated with the following figure. To fool a DNN 
 
 ## Usage
 Please run everywhere_demo.py to see the targeted transferability improvement by the proposed _everywhere_ method.
+If you want to get the SOTA result, please try CFM+everywhere attack with 'everywhere_CFM_10tar_github.py'. Note, you may need to download the NIPS2017 dataset to the 'dataset' folder first.
 
 ### Acknowledgement
 Our implementation is highly borrowed from [Zhao's code](https://github.com/ZhengyuZhao/Targeted-Transfer) on NeurIPS 2021.
