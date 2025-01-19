@@ -6,7 +6,6 @@ Note: CFM does not work for a single benign image. Hence, we need to prepare a d
 from torchvision import datasets, models, transforms
 from PIL import Image
 import numpy as np
-from utils_baseattack import gkern, DI, DI_keepresolution, DI_pa, Poincare_dis, Cos_dis, load_ground_truth, Cos_dis_sign
 import random
 import math
 from torchvision.utils import save_image
